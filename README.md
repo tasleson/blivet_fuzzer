@@ -1,4 +1,4 @@
-# Blivet Fuzzer
+<img width="512" height="512" alt="copilot_fuzz" src="https://github.com/user-attachments/assets/128a02ff-3fd7-4344-8483-b0de89247100" />
 
 *"Chaos is a ladder... to finding bugs in your storage stack."*
 
